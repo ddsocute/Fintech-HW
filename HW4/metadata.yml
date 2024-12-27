@@ -1,0 +1,12 @@
+---
+:id: 296222170
+:submitters:
+- :name: '林靖迪 '
+  :email: 111301029@nccu.edu.tw
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-10 10:59:16.076799000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-10 02:59:16.076799000 Z
+:status: processed
+:score: 81.0
